@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+import check_springboot
+
+check_springboot.check_springboot_service()
