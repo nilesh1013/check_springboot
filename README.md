@@ -24,7 +24,7 @@ You might need to run this command as root (depends on your permission settings)
 Usage:
 -----
 ```
-check_elasticsearch [options]
+check_springboot [options]
 
 Options:
   -h, --help            show this help message and exit
@@ -39,6 +39,6 @@ Requirements
 ------------
 
 - Python 2.6, 2.7, 3.0, 3.2 3.3, 3.4
-[requests][]
+- [requests][]
 
 [requests]: https://github.com/kennethreitz/requests
