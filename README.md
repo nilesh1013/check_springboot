@@ -1,5 +1,6 @@
 check_springboot
 ===================
+[![PyPI version](https://badge.fury.io/py/check_springboot.svg)](https://badge.fury.io/py/check_springboot)
 
 An [Spring Boot] availability and performance monitoring plugin for 
 Nagios.
