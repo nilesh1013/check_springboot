@@ -1,5 +1,3 @@
-# check_springboot
-
 check_springboot
 ===================
 
@@ -41,4 +39,6 @@ Requirements
 ------------
 
 - Python 2.6, 2.7, 3.0, 3.2 3.3, 3.4
-- [requests][]
+[requests][]
+
+[requests]: https://github.com/kennethreitz/requests
