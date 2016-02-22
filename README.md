@@ -19,7 +19,7 @@ Installation
 ------------
 You might need to run this command as root (depends on your permission settings)
 
-`pip install git+https://github.com/nilesh1013/check_springboot.git`
+`pip install check_springboot`
 
 Usage:
 -----
