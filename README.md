@@ -1,5 +1,6 @@
 check_springboot
 ===================
+[![PyPI version](https://badge.fury.io/py/check_springboot.svg)](https://badge.fury.io/py/check_springboot)
 
 An [Spring Boot] availability and performance monitoring plugin for 
 Nagios.
@@ -19,7 +20,7 @@ Installation
 ------------
 You might need to run this command as root (depends on your permission settings)
 
-`pip install git+https://github.com/nilesh1013/check_springboot.git`
+`pip install check_springboot`
 
 Usage:
 -----
